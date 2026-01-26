@@ -1,28 +1,28 @@
 # Hreem Pandya 
 **Computer Engineering Student @ University of Waterloo**  
-📍 Waterloo, ON | ✉️ h3pandya@uwaterloo.ca | [hreempandya.co](https://hreempandya.co)
+📍 Waterloo, ON | ✉️ h3pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
 
 ---
 
 ## 👋 Who am I?
 
-Hi! I’m Hreem Pandya, a computer engineering student who loves creating things that inspire change and make life a little easier—even if it’s just for small groups of people. I’m passionate about blending hardware and software to build impactful, efficient, and scalable solutions.  
+Hi! I’m Hreem Pandya, a computer engineering student who loves creating things that inspire change and make life a little easier—even if it’s just for small groups of people. I’m passionate[...]  
 
-I build fast, ship faster, and enjoy turning ideas into reality that improve convenience and accessibility for others. Whether it’s embedded systems, secure communication, or automation, I’m driven by the potential of technology to solve real-world problems and excited to keep growing through hands-on, collaborative projects.  
+I build fast, ship faster, and enjoy turning ideas into reality that improve convenience and accessibility for others. Whether it’s embedded systems, secure communication, or automation, I’m d[...]  
 
 
 ---
 
 ## 💻 Experiences
 
-- Created **FridgeMind (Hackathon Winner)** --> a Raspberry Pi + QNX system with a YOLOv5 model trained on 300+ images to detect fridge items and a cross-platform app that suggests recipes using the Gemini LLM API
+- Created **FridgeMind (Hackathon Winner)** --> a Raspberry Pi + QNX system with a YOLOv5 model trained on 300+ images to detect fridge items and a cross-platform app that suggests recipes using t[...]  
 - Developed **ML-based drone landing detection with YOLOv8** and fine-tuned autonomous navigation algorithms as part of WARG, ensuring reliable precision in real-time flight environments  
-- Architected a **grocery flyer data pipeline** at Skrimp.ai using Python, TypeScript, and Claude API with **95% accuracy**, and built a React + Node.js store discovery tool with geolocation support    
+- Architected a **grocery flyer data pipeline** at Skrimp.ai using Python, TypeScript, and Claude API with **95% accuracy**, and built a React + Node.js store discovery tool with geolocation suppo[...]  
 - Designed **GestureGroove**, a gesture-controlled Spotify player with React + TypeScript and MediaPipe, achieving **90%+ recognition accuracy** for hands-free music interaction  
 - Built **BeMyEyes**, an Arduino-powered wearable with ultrasonic sensors and Google TTS, providing real-time spatial alerts and visual descriptions for the visually impaired  
 - Collaborated on **OreCast**, an AI-driven geological prediction system with TensorFlow + Scikit-learn, including anomaly detection models and CI/CD validation for accuracy  
 - Led workshops on **Raspberry Pi, hosted hackathons**, and taught programming fundamentals to a 40+ member student club, fostering collaborative learning and hands-on technical growth  
-
+  
 ---
 
 ## 🔧 Tech Stack
