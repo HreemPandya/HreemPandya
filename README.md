@@ -1,32 +1,27 @@
-# Hreem Pandya 
-**Computer Engineering Student @ University of Waterloo**  
-📍 Waterloo, ON | ✉️ h3pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
+**comp eng student @ university of waterloo**   | ✉️ h3pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
 
 ---
 
-## 👋 Who am I?
+## 👋 who am i?
 
-Hi! I’m Hreem Pandya, a computer engineering student who loves creating things that inspire change and make life a little easier—even if it’s just for small groups of people. I’m passionate[...]  
-
-I build fast, ship faster, and enjoy turning ideas into reality that improve convenience and accessibility for others. Whether it’s embedded systems, secure communication, or automation, I’m d[...]  
-
+student and engineer interested in systems, ai and automation —> i like building things
 
 ---
 
-## 💻 Experiences
+## 💻 my projects at a glance
 
-- Created **FridgeMind (Hackathon Winner)** --> a Raspberry Pi + QNX system with a YOLOv5 model trained on 300+ images to detect fridge items and a cross-platform app that suggests recipes using t[...]  
-- Developed **ML-based drone landing detection with YOLOv8** and fine-tuned autonomous navigation algorithms as part of WARG, ensuring reliable precision in real-time flight environments  
-- Architected a **grocery flyer data pipeline** at Skrimp.ai using Python, TypeScript, and Claude API with **95% accuracy**, and built a React + Node.js store discovery tool with geolocation suppo[...]  
-- Designed **GestureGroove**, a gesture-controlled Spotify player with React + TypeScript and MediaPipe, achieving **90%+ recognition accuracy** for hands-free music interaction  
-- Built **BeMyEyes**, an Arduino-powered wearable with ultrasonic sensors and Google TTS, providing real-time spatial alerts and visual descriptions for the visually impaired  
-- Collaborated on **OreCast**, an AI-driven geological prediction system with TensorFlow + Scikit-learn, including anomaly detection models and CI/CD validation for accuracy  
-- Led workshops on **Raspberry Pi, hosted hackathons**, and taught programming fundamentals to a 40+ member student club, fostering collaborative learning and hands-on technical growth  
-  
+**cliara** - natural language terminal shell built with python and llm apis to convert user intent into executable commands with reusable macros.
+
+**investEd** – data-driven finance platform built in python with khan-academy style video translation of user queries on investment scenarios, risk–return tradeoffs etc.
+
+**fridgemind** – smart fridge assistant using python, flask, and computer vision apis to track food items, estimate expiry, and reduce waste.
+
+**gesturegroove** – real-time gesture-controlled music system using python, opencv, and the spotify api for hands-free interaction.
+
 ---
 
-## 🔧 Tech Stack
-**Languages:**  
+## 🔧 tech stack
+**languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +30,7 @@ I build fast, ship faster, and enjoy turning ideas into reality that improve con
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-**Frameworks & Platforms:**  
+**frameworks & platforms:**  
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -43,7 +38,7 @@ I build fast, ship faster, and enjoy turning ideas into reality that improve con
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Tools / IDEs:**  
+**tools / IDEs:**  
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -53,10 +48,4 @@ I build fast, ship faster, and enjoy turning ideas into reality that improve con
 
 ---
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HreemPandya)  
-[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HreemPandya)
-
-
-Check out my repos to see what I've been working on! I'm always up for collaborating on innovative tech projects, if you have a concept or challenge in mind, let’s make it happen! 🌟
+check out my repos to see what I've been working on. always up for a chat or collab, let’s make it happen! 🌟
