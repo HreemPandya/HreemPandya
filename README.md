@@ -1,5 +1,5 @@
 # Hreem Pandya 
-**Computer Engineering Student at the University of Waterloo**  
+**Computer Engineering Student @ University of Waterloo**  
 📍 Waterloo, ON | ✉️ h3pandya@uwaterloo.ca | [hreempandya.co](https://hreempandya.co)
 
 ---
