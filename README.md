@@ -1,4 +1,4 @@
-**comp eng student @ university of waterloo**   | ✉️ hreem.pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
+**comp eng student @ university of waterloo**   | ✉️ hreem.pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [linkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
 
 ---
 
@@ -17,6 +17,10 @@ student and engineer interested in systems, ai and automation —> i like buildi
 **fridgemind** – smart fridge assistant using python, flask, and computer vision apis to track food items, estimate expiry, and reduce waste.
 
 **gesturegroove** – real-time gesture-controlled music system using python, opencv, and the spotify api for hands-free interaction.
+
+**bemyeyes** – embedded ai wearable using arduino, sensors, computer vision, and text-to-speech for real-time environmental awareness.
+
+**secureedu** – encrypted learning platform built with stm32, embedded c, and aes encryption for secure content distribution.
 
 ---
 
