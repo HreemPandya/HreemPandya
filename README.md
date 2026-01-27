@@ -1,4 +1,4 @@
-**comp eng student @ university of waterloo**   | ✉️ h3pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
+**comp eng student @ university of waterloo**   | ✉️ hreem.pandya@uwaterloo.ca | 🌐 [hreempandya.co](https://hreempandya.co) | 💼 [LinkedIn](https://www.linkedin.com/in/hreem-pandya-7b74a0275/)
 
 ---
 
