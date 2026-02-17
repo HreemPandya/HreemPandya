@@ -14,7 +14,7 @@ student and engineer interested in systems, ai and automation —> i like buildi
 
 **investEd** – data-driven finance platform built in python with khan-academy style video translation of user queries on investment scenarios, risk–return tradeoffs etc.
 
-**fridgemind** – smart fridge assistant using python, flask, and computer vision apis to track food items, estimate expiry, and reduce waste.
+**fridgemind 🏆** – smart fridge assistant using python, flask, and computer vision apis to track food items, estimate expiry, and reduce waste.
 
 **gesturegroove** – real-time gesture-controlled music system using python, opencv, and the spotify api for hands-free interaction.
 
