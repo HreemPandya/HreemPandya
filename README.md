@@ -2,13 +2,13 @@
 
 ---
 
-## 👋 who am i?
+## who am i?
 
 student and engineer interested in systems, ai and automation —> i like building things
 
 ---
 
-## 💻 my projects at a glance
+## my projects at a glance
 
 **cliara** - natural language terminal shell built with python and llm apis to convert user intent into executable commands with reusable macros.
 
@@ -24,7 +24,7 @@ student and engineer interested in systems, ai and automation —> i like buildi
 
 ---
 
-## 🔧 tech stack
+## tech stack
 **languages:**  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
