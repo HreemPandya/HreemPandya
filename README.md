@@ -10,6 +10,8 @@ student and engineer interested in systems, ai and automation —> i like buildi
 
 ## my projects at a glance
 
+**ecoroute** – intelligent, carbon-aware AI gateway to dynamically route llm requests to clean-energy regions and low-latency models with cpu/gpu optimization
+
 **cliara** - natural language terminal shell built with python and llm apis to convert user intent into executable commands with reusable macros.
 
 **investEd** – data-driven finance platform built in python with khan-academy style video translation of user queries on investment scenarios, risk–return tradeoffs etc.
